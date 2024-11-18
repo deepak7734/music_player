@@ -8,7 +8,6 @@ This is a simple music player app that I've built. It's designed to play your fa
 * **Next/Previous:** Navigate through your music library.
 * **Volume Control:** Adjust the volume level.
 * **Playlist Management:** Create and manage playlists.
-* **[Add more features as you implement them]**
 
 
 **Contributing**
@@ -19,7 +18,6 @@ I plan to keep updating this app as I learn more. Some potential future features
 * **Equalizer:** Customize the sound quality.
 * **Lyrics Display:** Show lyrics while playing music.
 * **Background Playback:** Continue playing music even when the app is minimized.
-* **[Add more potential features]**
 
 **Disclaimer**
 This app is still under development. There may be bugs or limitations. Please use it at your own risk.
